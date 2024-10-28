@@ -1,0 +1,69 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Playfair", sans-serif;
+}
+
+nav	a{
+	text-decoration: none;
+	color: black;
+}
+
+nav div {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 600;
+}
+
+#me {
+	border-radius: 50%;
+}
+
+#landing h1 {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 600;
+}
+
+#landing h2 {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 300;
+}
+
+section #projects {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 600;
+}
+
+section #tools {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 600;
+}
+
+#front-end {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 300;
+}
+
+#mern {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 300;
+}
+
+#other-tools {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 300;
+}
+
+#contact {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 600;
+}
+
+#message {
+	font-family: "Cinzel", sans-serif;
+	font-weight: 600;
+}
+
+
+
+
