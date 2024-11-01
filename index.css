@@ -69,5 +69,27 @@ section #tools {
 	margin: 100;
 }
 
+#background {
+	background: linear-gradient(rgba(0, 0, 0, 0.59), rgba(0, 0, 0, 0.59)), url(./images/background2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+#navBarBg {
+	background-color: #FFF1DB;
+}
+
+#toolsBg {
+	background: linear-gradient(rgba(0, 0, 0, 0.59), rgba(0, 0, 0, 0.59)), url(./images/background.jpg);
+}
+
+#myProjects {
+	background-color: #FFF1DB;
+}
+
+#contactUs {
+	background-color: #FFF1DB;
+}
 
 
